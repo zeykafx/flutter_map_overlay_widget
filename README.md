@@ -1,10 +1,8 @@
 # flutter_map_overlay_widget
 Display any widget on top of a flutter_map instance.
-[Example Image](https://github.com/zeyakfx/flutter_map_overlay_widget/assets/flutter_map_overlay_widget_example.jpg)
 
-
-
-
+<img src="https://github.com/zeykafx/flutter_map_overlay_widget/blob/main/assets/flutter_map_overlay_widget_example.jpg?raw=true" width="400">
+ 
 ## Getting Started
 Add the package to your `pubspec.yaml` file:
 ```yaml
